@@ -1,0 +1,11 @@
+{
+	"name": "Online Store",
+		"short_name": "Online Store",
+		"description": "",
+	"start_url": ".",
+	"background_color": "#FFFFFF",
+	"display": "standalone",
+	"scope": "/",
+	"theme_color": "#FFFFFF",
+	"version": "1.0"
+}
